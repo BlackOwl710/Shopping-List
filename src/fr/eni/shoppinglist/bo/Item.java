@@ -1,4 +1,5 @@
 package fr.eni.shoppinglist.bo;
+// Et les commentaires ??????
 
 public class Item {
 
